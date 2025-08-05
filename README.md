@@ -32,13 +32,21 @@ bash ''' pip install -r requirements.txt
 📦 Dependencies:
 
 pyttsx3
+
 SpeechRecognition
+
 wikipedia
+
 pyjokes
+
 requests
+
 psutil
+
 pyautogui
+
 pystray
+
 Pillow
 
 🧪 How to Run : python Jarvis.py in CMD or Power Shell or Any IDE
@@ -46,24 +54,35 @@ Pillow
 Jarvis will:
 
 Greet you based on the time
+
 Report Weather, battery and Wi-Fi status
+
 Listen for commands starting with the wake word "jarvis"
 
 🧠 Sample Commands You Can Try :
 
 "Jarvis, open Chrome"
+
 "Jarvis, what is Python?"
+
 "Jarvis, take a screenshot"
+
 "Jarvis, lock my system"
+
 "Jarvis, remember my birthday is July 10"
+
 "Jarvis, what's my birthday?"
+
 "Jarvis, tell me a joke"
 
-🔒 License
+🔒 License : 
 This project is open-source under the MIT License.
 
 👤 Author
+
   Manjunath R
+
 📍 India
+
 🛠️ Passionate about Python, AI, and futuristic assistants.
 
