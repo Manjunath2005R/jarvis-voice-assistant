@@ -1,12 +1,12 @@
-# 🤖 Jarvis - Python Voice Assistant
+# 🤖 Logan - Python Voice Assistant
 
-Jarvis is a personal desktop voice assistant built in Python. Inspired by Iron Man's AI, this assistant responds to your voice commands with emotion-aware speech, controls apps, manages system functions, answers questions using Wikipedia, and even learns your usage patterns over time.
+Logan is a personal desktop voice assistant built in Python. Inspired by Iron Man's Jarvis AI, this assistant responds to your voice commands with emotion-aware speech, controls apps, manages system functions, answers questions using Wikipedia, and even learns your usage patterns over time.
 
 ---
 
 ## 🌟 Features
 
-- 🎙️ **Wake Word Detection** ("Jarvis")
+- 🎙️ **Wake Word Detection** ("Logan")
 - 🗣️ **Voice Recognition** (via Google Speech API)
 - 🧠 **Memory System** (remembers facts you teach)
 - 📚 **Wikipedia & Web Search** integration
@@ -49,31 +49,31 @@ pystray
 
 Pillow
 
-🧪 How to Run : python Jarvis.py in CMD or Power Shell or Any IDE
+🧪 How to Run : python Logan.py in CMD or Power Shell or Any IDE
 
-Jarvis will:
+Logan will:
 
 Greet you based on the time
 
 Report Weather, battery and Wi-Fi status
 
-Listen for commands starting with the wake word "jarvis"
+Listen for commands starting with the wake word "Logan"
 
 🧠 Sample Commands You Can Try :
 
-"Jarvis, open Chrome"
+"Logan, open Chrome"
 
-"Jarvis, what is Python?"
+"Logan, what is Python?"
 
-"Jarvis, take a screenshot"
+"Logan, take a screenshot"
 
-"Jarvis, lock my system"
+"Logan, lock my system"
 
-"Jarvis, remember my birthday is July 10"
+"Logan, remember my birthday is July 10"
 
-"Jarvis, what's my birthday?"
+"Logan, what's my birthday?"
 
-"Jarvis, tell me a joke"
+"Logan, tell me a joke"
 
 🔒 License : 
 This project is open-source under the MIT License.
@@ -84,5 +84,5 @@ This project is open-source under the MIT License.
 
 📍 India
 
-🛠️ Passionate about Python, AI, and futuristic assistants.
+🛠️ Passionate about Python, AI, Cloud and futuristic assistants.
 
